@@ -1,5 +1,6 @@
 # Getting Started
 website: https://harshitsingh1.github.io/Scrimba-Passenger-Counter-App/
+
 Install the dependencies and run the project
 ```
 npm install
