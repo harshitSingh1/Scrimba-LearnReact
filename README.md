@@ -1,5 +1,6 @@
 # Getting Started
-website: https://harshitsingh1.github.io/Scrimba-Passenger-Counter-App/
+1. Download/Clone the Repository
+2. Select any one project folder
 
 Install the dependencies and run the project
 ```
